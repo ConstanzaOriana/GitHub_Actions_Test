@@ -15,7 +15,7 @@ jobs:
       - name: 📂 Sync files
         uses: ./
         with:
-          server: ftp.samkirkland.com
-          username: test@samkirkland.com
-          password: ${{ secrets.ftp_password }}
+          server: files.000webhost.com
+          username: githubactions
+          password: Invernalia12
           protocol: ftps
