@@ -17,6 +17,3 @@ jobs:
         server: files.000webhost.com
         username: githubactions
         password: Invernalia12
-        exclude: |
-          **./ftp.yml**
-          **ftps.yml**
